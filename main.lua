@@ -42,7 +42,7 @@ function restart()
 end
 
 function initSnake()
-	lenght = 8
+	length = 8
 	speed = 0.1
 	score = 0
 	snake = {}
